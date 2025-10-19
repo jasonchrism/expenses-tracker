@@ -11,9 +11,6 @@ const Footer = () => {
           {/* Logo and Tagline */}
           <div className='text-center md:text-left'>
             <div className='inline-flex items-center gap-2 mb-4'>
-              <div className='w-8 h-8 bg-gradient-to-br from-emerald-500 via-green-500 to-teal-500 rounded-xl flex items-center justify-center shadow-lg'>
-                <span className='text-white text-lg'>💰</span>
-              </div>
               <h2 className='text-xl font-bold bg-gradient-to-r from-emerald-600 via-green-500 to-teal-500 bg-clip-text text-transparent'>
                 ExpenseTracker AI
               </h2>
